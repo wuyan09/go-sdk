@@ -1,9 +1,9 @@
-package main
+package sdk
 
 import (
  "fmt"
 )
 
-func main() {
- fmt.Println("Hello, GO!")
+func testDemo() {
+ fmt.Println("Hello, testDemo!")
 }
